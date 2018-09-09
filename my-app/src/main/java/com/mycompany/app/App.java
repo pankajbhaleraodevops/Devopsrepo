@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is for maven job test!" );
+        System.out.println( "This is for maven job test file!" );
     }
 }
